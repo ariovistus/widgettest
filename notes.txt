@@ -1,0 +1,6 @@
+https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20Custom.html
+
+install jupyter, ipywidgets
+enable widgets:
+
+jupyter nbextension enable --py --sys-prefix widgetsnbextension
